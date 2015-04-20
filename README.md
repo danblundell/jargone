@@ -1,12 +1,12 @@
 #Jargone
 
-Jargone is [a bookmarklet](http://rooreynolds.github.com/jargone/) for highlighting [jargon words](https://www.gov.uk/designprinciples/styleguide#item_4_1_3) on any page.
+Jargone is [a bookmarklet](http://danblundell.github.com/jargone/) for highlighting jargon words on any page. This version of jargone has been forked from [Roo Reynolds](https://github.com/rooreynolds) - thanks Roo.
 
 <a href="http://www.flickr.com/photos/rooreynolds/8435984971/"><img src="http://farm9.staticflickr.com/8510/8435984971_e3f76721c0_o.png" width="757" height="547"></a>
 
 ##Installation
 
-Follow the two step [installation instructions](http://rooreynolds.github.com/jargone/)
+Follow the two step [installation instructions](http://danblundell.github.com/jargone/)
 
 ##Building
 
